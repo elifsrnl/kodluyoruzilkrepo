@@ -7,3 +7,9 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluştur
 
 ## Installation 
 
+[GIT Clone](https://github.com/elifsrnl/kodluyoruzilkrepo)
+
+## Usage 
+
+
+
